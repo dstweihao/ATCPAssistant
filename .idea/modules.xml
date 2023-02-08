@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ATCPAssistant.iml" filepath="$PROJECT_DIR$/ATCPAssistant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ATCPAssistant.iml" filepath="$PROJECT_DIR$/.idea/modules/ATCPAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ATCPAssistant.app.unitTest.iml" />
     </modules>
   </component>
 </project>
